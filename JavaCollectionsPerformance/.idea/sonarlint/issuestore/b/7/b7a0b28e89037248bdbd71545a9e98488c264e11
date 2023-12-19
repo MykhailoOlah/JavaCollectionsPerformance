@@ -1,0 +1,33 @@
+
+/
+java:S1700	"Rename field "linkedList"(Éø¬§
+E	java:S106"+Replace this use of System.out by a logger.(ˆı›ªşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(õáÒ¤
+E	java:S106"+Replace this use of System.out by a logger.(ß¸Òèşÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(Ö³
+E	java:S106'"+Replace this use of System.out by a logger.(ïÑÖÄüÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(¦€ª
+P
+java:S18540"5Remove this useless assignment to local variable "b".(±éÉ‹ÿÿÿÿÿ
+A
+java:S14810"&Remove this unused "b" local variable.(±éÉ‹ÿÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.( ÷šäüÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(–¨æıÿÿÿÿ
+J
+java:S1854:"5Remove this useless assignment to local variable "b".(¦ÂP
+;
+java:S1481:"&Remove this unused "b" local variable.(¦ÂP
+@	java:S106;"+Replace this use of System.out by a logger.(¨Õ´ı
+K
+java:S1854?"5Remove this useless assignment to local variable "b".(õÏ
+<
+java:S1481?"&Remove this unused "b" local variable.(õÏ
+@	java:S106@"+Replace this use of System.out by a logger.(ÓÌ´’
+P
+java:S1854D"5Remove this useless assignment to local variable "b".(˜òé¨ÿÿÿÿÿ
+A
+java:S1481D"&Remove this unused "b" local variable.(˜òé¨ÿÿÿÿÿ
+E	java:S106E"+Replace this use of System.out by a logger.(û¢»ùÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(€­’ÿÿÿÿÿ
+@	java:S106P"+Replace this use of System.out by a logger.(Ä —¾
+@	java:S106Q"+Replace this use of System.out by a logger.(´È¬É

@@ -1,0 +1,40 @@
+
+8
+java:S1700
+"Rename field "hashSet"(×ÊŒ´şÿÿÿÿ8”îÉÈ1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(øè‘´8©îÉÈ1
+L	java:S106"+Replace this use of System.out by a logger.(Æ‹Ê×ÿÿÿÿÿ8°îÉÈ1
+D
+java:S2201"'The return value of "get" must be used.(øè‘´8³îÉÈ1
+L	java:S106"+Replace this use of System.out by a logger.(“­Øûøÿÿÿÿ8µîÉÈ1
+L	java:S106"+Replace this use of System.out by a logger.(œˆ¯‹şÿÿÿÿ8¶îÉÈ1
+G	java:S106!"+Replace this use of System.out by a logger.(Å¢—ğ8¸îÉÈ1
+G	java:S106'"+Replace this use of System.out by a logger.(ìÇá 8»îÉÈ1
+W
+java:S1854,"5Remove this useless assignment to local variable "b".(ú˜¢–ùÿÿÿÿ8¼îÉÈ1
+H
+java:S1481,"&Remove this unused "b" local variable.(ú˜¢–ùÿÿÿÿ8¾îÉÈ1
+L	java:S106-"+Replace this use of System.out by a logger.(Â£Œûøÿÿÿÿ8¾îÉÈ1
+N
+java:S22011",The return value of "contains" must be used.(å¬¬²ùÿÿÿÿ8¿îÉÈ1
+G	java:S1062"+Replace this use of System.out by a logger.(Ø±Ìı8ÀîÉÈ1
+L	java:S1067"+Replace this use of System.out by a logger.(Í«‡ úÿÿÿÿ8ÂîÉÈ1
+R
+java:S1854;"5Remove this useless assignment to local variable "b".(½ÉÔª8ÃîÉÈ1
+C
+java:S1481;"&Remove this unused "b" local variable.(½ÉÔª8ÄîÉÈ1
+G	java:S106<"+Replace this use of System.out by a logger.(ù±±8ÅîÉÈ1
+W
+java:S1854@"5Remove this useless assignment to local variable "b".(ŒøŠÕûÿÿÿÿ8ÅîÉÈ1
+H
+java:S1481@"&Remove this unused "b" local variable.(ŒøŠÕûÿÿÿÿ8ÇîÉÈ1
+G	java:S106A"+Replace this use of System.out by a logger.(İƒÌş8ÇîÉÈ1
+R
+java:S1854E"5Remove this useless assignment to local variable "b".(ì²Ü8ÈîÉÈ1
+C
+java:S1481E"&Remove this unused "b" local variable.(ì²Ü8ÉîÉÈ1
+L	java:S106F"+Replace this use of System.out by a logger.(Å¼Âôüÿÿÿÿ8ÉîÉÈ1
+L	java:S106K"+Replace this use of System.out by a logger.(“Šªÿÿÿÿÿ8ËîÉÈ1
+G	java:S106P"+Replace this use of System.out by a logger.(®ğŞ©8ÍîÉÈ1
+G	java:S106Q"+Replace this use of System.out by a logger.(´È¬É8ÎîÉÈ1

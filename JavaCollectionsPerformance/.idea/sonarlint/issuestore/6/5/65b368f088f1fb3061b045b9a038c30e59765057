@@ -1,0 +1,43 @@
+
+7
+java:S1700	"Rename field "linkedHashSet"(œÎ´¥ÿÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ˆîõîıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¶ú¡œ
+V
+java:S1854";Remove this useless assignment to local variable "readNum".(ˆîõîıÿÿÿÿ
+G
+java:S1481",Remove this unused "readNum" local variable.(ˆîõîıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Öö»šûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(–ãÜëøÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(–Âø–úÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(½ˆ‘ğøÿÿÿÿ
+P
+java:S1854*"5Remove this useless assignment to local variable "b".(µ¿¨—ıÿÿÿÿ
+A
+java:S1481*"&Remove this unused "b" local variable.(µ¿¨—ıÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(Î™ışÿÿÿÿ
+K
+java:S1854/"5Remove this useless assignment to local variable "b".(¨ùš¹
+<
+java:S1481/"&Remove this unused "b" local variable.(¨ùš¹
+?	java:S1060"+Replace this use of System.out by a logger.(“»ï3
+E	java:S1065"+Replace this use of System.out by a logger.(üÈôÄüÿÿÿÿ
+J
+java:S18549"5Remove this useless assignment to local variable "b".(ÜãÈ
+;
+java:S14819"&Remove this unused "b" local variable.(ÜãÈ
+@	java:S106:"+Replace this use of System.out by a logger.(¸¨¾
+P
+java:S1854?"5Remove this useless assignment to local variable "b".(Ç¨ù­ıÿÿÿÿ
+A
+java:S1481?"&Remove this unused "b" local variable.(Ç¨ù­ıÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(«÷ï¤şÿÿÿÿ
+P
+java:S1854D"5Remove this useless assignment to local variable "b".(İ°’üÿÿÿÿ
+A
+java:S1481D"&Remove this unused "b" local variable.(İ°’üÿÿÿÿ
+E	java:S106E"+Replace this use of System.out by a logger.(•òî‰ıÿÿÿÿ
+@	java:S106J"+Replace this use of System.out by a logger.(¼¨‚°
+E	java:S106O"+Replace this use of System.out by a logger.(ŠßÑüÿÿÿÿ
+@	java:S106P"+Replace this use of System.out by a logger.(´È¬É
